@@ -10,7 +10,7 @@
     </parent>
     <modelVersion>4.0.0</modelVersion>
 
-    <artifactId>lab-13-jpa</artifactId>
+    <artifactId>SpringDataJPA-Demo</artifactId>
 
     <dependencies>
         <!-- 实现对数据库连接池的自动化配置 -->
